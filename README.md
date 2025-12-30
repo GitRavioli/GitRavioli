@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m an introverted, intentional builder who loves creating tools that simplify life and support personal growth. I build cozy, functional apps like DivvyUp, a minimalist ADHD-friendly budget tracker, and LifeHub, a personal life dashboard.<br><br>I enjoy crafting projects in Python and Kotlin, experimenting with PWA and desktop apps, and turning small ideas into practical, usable solutions. My work reflects a focus on flow, clarity, and quiet creativity rather than flashy trends.
+I’m an introverted, intentional creator who loves building tools that make life simpler and support personal growth. I develop cozy, practical apps like DivvyUp, a minimalist ADHD-friendly budget tracker, and LifeHub, a personal life utility for managing books, journaling thoughts, tracking finances, and more.<br><br>I enjoy bringing projects to life with Python and Kotlin, exploring PWA and desktop app development, and turning small ideas into functional, meaningful solutions. My work focuses on flow, clarity, and quiet creativity rather than flashy popular trends.
 
 
 # 💻 Tech Stack:
