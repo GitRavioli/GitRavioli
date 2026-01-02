@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I’m an introverted, intentional creator who loves building tools that make life simpler and support personal growth. I develop cozy, practical apps like DivvyUp, a minimalist ADHD-friendly budget tracker, and LifeHub, a personal life utility for managing books, journaling thoughts, tracking finances, and more.<br><br>I enjoy bringing projects to life with Python and Kotlin, exploring PWA and desktop app development, and turning small ideas into functional, meaningful solutions. My work focuses on flow, clarity, and quiet creativity rather than flashy popular trends.
 
 ```
@@ -30,5 +30,3 @@ NEXT:
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
